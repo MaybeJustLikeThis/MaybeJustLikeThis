@@ -13,7 +13,6 @@
 
 在为成为一个伟大的全栈工程师努力着！
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeJustLikeThis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 实习经历
 
