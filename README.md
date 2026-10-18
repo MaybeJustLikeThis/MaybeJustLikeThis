@@ -11,7 +11,7 @@
 
 <br />
 
-[![主页访问](https://komarev.com/ghpvc/?username=MaybeJustLikeThis&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=4F46E5&style=flat-square)](https://github.com/MaybeJustLikeThis)
+[![主页访问](https://visitor-badge.laobi.icu/badge?page_id=MaybeJustLikeThis.MaybeJustLikeThis&left_text=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&left_color=%23555&right_color=%234F46E5)](https://github.com/MaybeJustLikeThis)
 
 [经历](#经历) · [技能](#技能) · [GitHub 数据](#github-数据) · [博客](#博客)
 
