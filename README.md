@@ -15,7 +15,7 @@
 
 [![主页访问](https://komarev.com/ghpvc/?username=MaybeJustLikeThis&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=4F46E5&style=flat-square)](https://github.com/MaybeJustLikeThis)
 
-[经历](#经历) · [技能](#技能) · [代表项目](#代表项目) · [开源贡献](#开源贡献) · [TODO](#todo) · [GitHub 数据](#github-数据)
+[经历](#经历) · [技能](#技能) · [GitHub 数据](#github-数据) · [博客](#博客)
 
 </div>
 
@@ -48,56 +48,6 @@
 ![Agent 开发](https://img.shields.io/badge/Agent_%E5%BC%80%E5%8F%91-4F46E5?style=flat-square)
 
 </div>
-
-## 代表项目
-
-<div align="center">
-
-<a href="https://github.com/MaybeJustLikeThis/rainbow-fart-dsh">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=rainbow-fart-dsh&hide_border=true&locale=cn&theme=tokyonight" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=rainbow-fart-dsh&hide_border=true&locale=cn&theme=default" alt="rainbow-fart-dsh" width="48%" />
-  </picture>
-</a>
-<a href="https://github.com/MaybeJustLikeThis/explain-clearly">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=explain-clearly&hide_border=true&locale=cn&theme=tokyonight" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=explain-clearly&hide_border=true&locale=cn&theme=default" alt="explain-clearly" width="48%" />
-  </picture>
-</a>
-
-<br />
-
-<a href="https://github.com/MaybeJustLikeThis/Maybe-kb">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=Maybe-kb&hide_border=true&locale=cn&theme=tokyonight" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=Maybe-kb&hide_border=true&locale=cn&theme=default" alt="Maybe-kb" width="48%" />
-  </picture>
-</a>
-<a href="https://github.com/MaybeJustLikeThis/tarot-agent">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=tarot-agent&hide_border=true&locale=cn&theme=tokyonight" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MaybeJustLikeThis&repo=tarot-agent&hide_border=true&locale=cn&theme=default" alt="tarot-agent" width="48%" />
-  </picture>
-</a>
-
-</div>
-
-## 开源贡献
-
-以下仓库都不是我本人所有。条目只收录已核对过的公开 Pull Request（合并或仍开放），核对日期 2026-10-18。
-
-- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — DeepSeek Harness 插件精选列表。已合并 [PR #6065](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/6065)，收录 Rainbow Fart-DSH。
-- [opentyut/opentyut.github.io](https://github.com/opentyut/opentyut.github.io) — 太原理工大学在校生维护的开源学习社区站点。已合并 18 个 PR，内容涵盖文档、中文搜索与 SEO。
-- [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli) — 多 Agent 全自动 AI 小说生成。已合并 [PR #23](https://github.com/voocel/ainovel-cli/pull/23)，修复全书完成后继续派发子代理导致的死循环。
-- [SalengNotLittleMeng/YundingFullStack](https://github.com/SalengNotLittleMeng/YundingFullStack) — 云顶书院全栈方向知识分享社区。已合并 10 个学习任务 PR，另有 [1 个仍开放](https://github.com/SalengNotLittleMeng/YundingFullStack/pull/488)。
-- [x5plan/git-blog](https://github.com/x5plan/git-blog) — 博客上线前的临时笔记仓库。已合并 [PR #14](https://github.com/x5plan/git-blog/pull/14)，补充前端错误监控笔记。
-
-## TODO
-
-- 学一门后端语言，Java 或 Python，目标是能写能用
-- 把 Agent 开发学扎实，并落到自己的项目里
-- 保持编码，持续写下去
 
 ## GitHub 数据
 
