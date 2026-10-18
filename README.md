@@ -1,64 +1,101 @@
-# MaybeJustLikeThis/ReadMe
-#Hi~ o(*￣▽￣*)ブ<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
 
-我是或许就该如此！正在为成为一名正式的全栈工程师而努力！🙂
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png" />
+  <img src="assets/header-light.png" width="100%" alt="或许就该如此，全栈工程师 · Agent 基础设施" />
+</picture>
 
-目前正在积极学习Agent开发，未来希望向着Agent开发前进。
+先走该走的路，再走想走的路。
 
--我喜欢游泳🏊，阅读✍️，和旅行。🛳️
+[博客](https://maybejustlikethis.github.io/) · [GitHub](https://github.com/MaybeJustLikeThis)
 
--热爱编程🧑‍💻
+<br />
 
--热爱生活🍻
+[![主页访问](https://komarev.com/ghpvc/?username=MaybeJustLikeThis&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=4F46E5&style=flat-square)](https://github.com/MaybeJustLikeThis)
 
-在为成为一个伟大的全栈工程师努力着！
+[经历](#经历) · [技能](#技能) · [GitHub 数据](#github-数据) · [博客](#博客)
 
+</div>
+
+## 关于我
+
+我是或许就该如此，一名全栈工程师。近期在积极学习和探索 Agent 基础设施建设。
+
+🏊 游泳 · ✍️ 阅读 · 🛳️ 旅行
+
+热爱编程，也热爱把生活过好。
 
 ## 经历
 
+| 公司 | 时间 | 部门 | 内容 |
+| --- | --- | --- | --- |
+| 快手 | 2025/1 – 2025/4 | 企业应用部 | B 端财务结算系统，内部通用组件库 |
+| 美团 | 2025/5 – 至今 | 基础技术部 | 负责前端静态资源部署平台与 Agent 基础设施建设 |
+
+## 技能
+
 <div align="center">
 
-| 公司                                 | 时间             | 部门                | 内容                                               |
-| ------------------------------------ | ---------------- | ------------------- | --------------------------------------------------  |
-| 有乐今天                             | 2024/7 ~ 2024/9  | 有乐今天-技术研发部 | C端归因产品开发，AI聊天工具开发                      |
-| 快手                                 | 2025/1 ~ 2025/4  | 快手-企业应用部     | B端财务结算系统，开发内部通用组件库                  |
-| 美团                                 | 2025/5 ~ now  | 美团-基础技术部    | 负责前端静态资源部署平台的开发迭代，Agent开发           |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,python&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,python&perline=8" alt="HTML CSS JavaScript TypeScript Vue React Node.js Python" />
+</picture>
 
+<br />
+
+![Agent 开发](https://img.shields.io/badge/Agent_%E5%BC%80%E5%8F%91-4F46E5?style=flat-square)
 
 </div>
 
-## TODO
-- 学习一门语言（Java or Python）
-- 学习Agent开发
-- keep coding
-
-## 技能树:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-vue-green?style=green&logo=vue)
-![React](https://img.shields.io/badge/-react-yellow?style=flat-square&logo=java)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-
-<!-- Gif -->
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
-</div>
-
-## 📦GitHub
+## GitHub 数据
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MaybeJustLikeThis&theme=highcontrast" />
- <img width="40%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
+
+<a href="https://github.com/MaybeJustLikeThis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MaybeJustLikeThis&show_icons=true&hide_border=true&locale=cn&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api?username=MaybeJustLikeThis&show_icons=true&hide_border=true&locale=cn&theme=default" alt="GitHub 统计" width="49%" />
+  </picture>
+</a>
+<a href="https://github.com/MaybeJustLikeThis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MaybeJustLikeThis&layout=compact&hide_border=true&locale=cn&theme=tokyonight&langs_count=8" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaybeJustLikeThis&layout=compact&hide_border=true&locale=cn&theme=default&langs_count=8" alt="常用语言" width="49%" />
+  </picture>
+</a>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MaybeJustLikeThis&hide_border=true&locale=zh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MaybeJustLikeThis&hide_border=true&locale=zh" alt="连续贡献" width="100%" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.luckylinux.dev/graph?username=MaybeJustLikeThis&custom_title=%E6%9C%80%E8%BF%91%E8%B4%A1%E7%8C%AE&hide_border=true&area=true&radius=12&theme=tokyo-night" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=MaybeJustLikeThis&custom_title=%E6%9C%80%E8%BF%91%E8%B4%A1%E7%8C%AE&hide_border=true&area=true&radius=12&theme=github-compact" alt="最近贡献" width="100%" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=MaybeJustLikeThis&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=false" />
+  <img src="https://trophy.ryglcloud.net/?username=MaybeJustLikeThis&theme=flat&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=false" alt="GitHub 奖杯" width="100%" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaybeJustLikeThis/MaybeJustLikeThis/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MaybeJustLikeThis/MaybeJustLikeThis/output/github-contribution-grid-snake.svg" alt="贡献格子贪吃蛇" width="100%" />
+</picture>
+
+贡献格子贪吃蛇由仓库里的 [Actions 工作流](./.github/workflows/snake.yml) 每天更新，图片放在 [`output`](https://github.com/MaybeJustLikeThis/MaybeJustLikeThis/tree/output) 分支。
+
 </div>
 
-Blog: <a>https://maybejustlikethis.github.io/</a>
- 
+## 博客
+
+笔记和文章：[https://maybejustlikethis.github.io/](https://maybejustlikethis.github.io/)
